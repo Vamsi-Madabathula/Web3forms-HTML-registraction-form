@@ -1,6 +1,6 @@
 # Web3Forms HTML Registration Form
 
-This project is a simple and functional HTML form that collects user data and submits it using the [Web3Forms](https://web3forms.com) API — a lightweight and powerful form backend service that requires no server-side code.
+This project is a simple and  functional HTML form that collects user data and submits it using the [Web3Forms](https://web3forms.com) API — a lightweight and powerful form backend service that requires no server-side code.
 
 ## Overview
 
