@@ -7,7 +7,7 @@ This project is a simple and  functional HTML form that collects user data and s
 The form includes the following input fields:
 
 - 👤 Name  
-- 📧 Email address  
+- 📧 Email  address  
 - 📞 Phone number  
 - 🚻 Gender (Radio buttons)  
 - 🎓 Year of pass-out (Dropdown)  
